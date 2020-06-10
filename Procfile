@@ -1,0 +1,1 @@
+worker: sh build/install/easymusicbot/bin/easymusicbot
